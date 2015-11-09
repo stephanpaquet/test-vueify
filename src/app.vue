@@ -5,7 +5,7 @@
 </style>
 
 <template>
-    <h1 class="red">{{ msg }}</h1>
+    <h2 class="red">{{ msg }}</h2>
 </template>
 
 <script>
