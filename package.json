@@ -1,0 +1,22 @@
+{
+  "name": "test-vueify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-runtime": "^6.0.14",
+    "vue-hot-reload-api": "^1.2.1",
+    "vueify": "^6.0.0",
+    "vueify-insert-css": "^1.0.0"
+  },
+  "dependencies": {
+    "vue": "^1.0.7"
+  }
+}
